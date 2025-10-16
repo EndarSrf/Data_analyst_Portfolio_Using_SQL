@@ -1,12 +1,12 @@
 SQL Project: E-Commerce Sales Analysis  
 📘 Deskripsi Proyek  
-Proyek ini bertujuan untuk menganalisis data penjualan dari sebuah toko online menggunakan MySQL.
-Data yang digunakan berasal dari dataset E-Commerce (transaksi tahun 2010–2011), yang berisi informasi tentang pelanggan, produk, dan pesanan.
+Proyek ini bertujuan untuk menganalisis data penjualan dari sebuah toko online menggunakan MySQL.  
+Data yang digunakan berasal dari dataset E-Commerce (transaksi tahun 2010–2011), yang berisi informasi tentang pelanggan, produk, dan pesanan.  
 
-Tujuan utama proyek ini adalah:
-Membangun database relasional untuk data e-commerce.
-Melakukan analisis data penjualan menggunakan query SQL.
-Menemukan insight bisnis seperti produk terlaris, negara dengan pendapatan terbesar, dan tren penjualan per bulan.
+Tujuan utama proyek ini adalah:  
+Membangun database relasional untuk data e-commerce.  
+Melakukan analisis data penjualan menggunakan query SQL.  
+Menemukan insight bisnis seperti produk terlaris, negara dengan pendapatan terbesar, dan tren penjualan per bulan.  
 
 🗂️ Struktur Database
 Database bernama ecommerce terdiri dari empat tabel utama:
