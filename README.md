@@ -1,5 +1,5 @@
-SQL Project: E-Commerce Sales Analysis
-📘 Deskripsi Proyek
+SQL Project: E-Commerce Sales Analysis  
+📘 Deskripsi Proyek  
 Proyek ini bertujuan untuk menganalisis data penjualan dari sebuah toko online menggunakan MySQL.
 Data yang digunakan berasal dari dataset E-Commerce (transaksi tahun 2010–2011), yang berisi informasi tentang pelanggan, produk, dan pesanan.
 
